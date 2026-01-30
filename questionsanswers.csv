@@ -1,0 +1,126 @@
+category,points,question,answer
+History,100,Who was the first president of the United States?,George Washington
+History,100,What ancient people built the pyramids?,Egyptians
+History,100,Which country built the Great Wall?,China
+History,100,Who discovered America in 1492?,Christopher Columbus
+History,100,What war ended in 1945?,World War II
+History,200,Who was the king of Macedonia who created a vast empire?,Alexander the Great
+History,200,What ship sank in 1912?,Titanic
+History,200,Which country used samurai?,Japan
+History,200,Who was the leader of the Mongol Empire?,Genghis Khan
+History,200,Which city had the Colosseum?,Rome
+History,300,What empire ruled most of Europe in medieval times?,The Roman Empire
+History,300,What major wall fell in 1989?,Berlin Wall
+History,300,What was the trade route between Asia and Europe called?,The Silk Road
+History,300,Who wrote the U.S. Declaration of Independence?,Thomas Jefferson
+History,300,What ancient city was buried by a volcano in 79 AD?,Pompeii
+History,400,What war was between the North and South in the U.S.?,The Civil War
+History,400,What country started the Industrial Revolution?,Britain
+History,400,What was the old name of Istanbul?,Constantinople
+History,400,Who was the female pharaoh of Egypt?,Cleopatra
+History,400,What empire used the road Royal Road?,Persian Empire
+History,500,What was the first civilization in Mesopotamia?,Sumer
+History,500,What disease killed millions in the 14th century?,The Black Plague
+History,500,What year did World War I begin?,1914
+History,500,Which explorer first circled the Earth by ship?,Ferdinand Magellan
+History,500,What document limited the English king's power in 1215?,Magna Carta
+Biology,100,What do plants breathe in?,Carbon dioxide
+Biology,100,What organ pumps blood?,Heart
+Biology,100,What do we call baby cats?,Kittens
+Biology,100,What do plants need to make food?,Sunlight
+Biology,100,What sense organ lets you smell?,Nose
+Biology,200,What is the biggest organ in the human body?,Skin
+Biology,200,What is the center of a cell called?,Nucleus
+Biology,200,What part of the plant is under the ground?,Roots
+Biology,200,What liquid carries oxygen in the body?,Blood
+Biology,200,What bones protect the brain?,Skull
+Biology,300,What gas do plants release?,Oxygen
+Biology,300,What do we call animals that eat only plants?,Herbivores
+Biology,300,What do we call the change from child to adult?,Puberty
+Biology,300,What part of the eye controls light?,Pupil
+Biology,300,What is the basic unit of life?,Cell
+Biology,400,What part of the brain controls memory?,Hippocampus
+Biology,400,What process lets plants make food?,Photosynthesis
+Biology,400,What blood cells fight sickness?,White blood cells
+Biology,400,What do we call the study of animals?,Zoology
+Biology,400,What organ cleans your blood?,Kidneys
+Biology,500,What molecule carries genetic information?,DNA
+Biology,500,What system controls hormones?,Endocrine system
+Biology,500,What animal group lays eggs and produces milk?,Monotremes
+Biology,500,What part of the cell makes energy?,Mitochondria
+Biology,500,What do we call the full change from caterpillar to butterfly?,Metamorphosis
+General Knowledge,100,What country has the largest land area?,Russia
+General Knowledge,100,What do we call numbers that can be divided by 2?,Even numbers
+General Knowledge,100,What is the main language spoken in Mexico?,Spanish
+General Knowledge,100,What tool do we use to measure temperature?,Thermometer
+General Knowledge,100,What is the name of our galaxy?,The Milky Way
+General Knowledge,200,How many continents are there on Earth?,Seven
+General Knowledge,200,What is the capital city of Australia?,Canberra
+General Knowledge,200,What natural force pulls objects to the ground?,Gravity
+General Knowledge,200,What country invented the Olympic Games?,Greece
+General Knowledge,200,What part of a computer stores information long-term?,Hard drive
+General Knowledge,300,What do we call a word with the same meaning as another word?,Synonym
+General Knowledge,300,What number is the Roman numeral X?,Ten
+General Knowledge,300,What country is known as The Land of the Rising Sun?,Japan
+General Knowledge,300,What is the largest desert on Earth (not hot)?,Antarctica
+General Knowledge,300,What famous scientist developed the theory of relativity?,Albert Einstein
+General Knowledge,400,What device turns sound waves into electric signals?,Microphone
+General Knowledge,400,What country has the city of Machu Picchu?,Peru
+General Knowledge,400,What type of energy comes from the sun?,Solar energy
+General Knowledge,400,What is the study of maps called?,Cartography
+General Knowledge,400,What is the name of the boundary between Earth's crust and mantle?,The Moho
+General Knowledge,500,What chemical element has the symbol Au?,Gold
+General Knowledge,500,What ancient writing system used pictures and symbols?,Hieroglyphics
+General Knowledge,500,What is the term for a government ruled by one person with full power?,Dictatorship
+General Knowledge,500,What part of Earth experiences 24 hours of sunlight in summer?,The Arctic Circle
+General Knowledge,500,What calendar is most used in the world today?,Gregorian calendar
+Animals,100,What animal can rotate its head almost all the way around?,Owl
+Animals,100,What animal has black skin under its white fur?,Polar bear
+Animals,100,What sea animal has no brain and no bones?,Jellyfish
+Animals,100,What animal can sleep underwater but still breathe air?,Dolphin
+Animals,100,What is the slowest land animal?,Sloth
+Animals,200,What big cat is the only one that cannot roar?,Cheetah
+Animals,200,What animal can live the longest (land animal)?,Tortoise
+Animals,200,What bird is known for dancing to attract a mate?,Bird of paradise
+Animals,200,What sea animal has a heart with three chambers?,Octopus
+Animals,200,What animal has fingerprints almost the same as humans?,Koala
+Animals,300,What animal can regrow its tail if it loses it?,Lizard
+Animals,300,What sea animal has the largest brain of all animals?,Sperm whale
+Animals,300,What animal can smell underwater using its tongue?,Snake
+Animals,300,What mammal sleeps the least per day (about 2 hours)?,Elephant
+Animals,300,What small animal stores food in cheek pouches?,Hamster
+Animals,400,What bird can fly the highest in the sky?,Rüppell's vulture
+Animals,400,What animal has the strongest punch in the animal world?,Mantis shrimp
+Animals,400,What insect is born without wings but grows them later?,Butterfly
+Animals,400,What animal has the strongest bite force of all living animals?,Saltwater crocodile
+Animals,400,What fish can make electricity?,Electric eel
+Animals,500,What animal can go two years without eating?,Crocodile
+Animals,500,What sea animal has blue blood?,Horseshoe crab
+Animals,500,What animal can smell a dead body 20 km away?,Vulture
+Animals,500,What animal has eyes on the end of long stalks?,Snail
+Animals,500,What shark can swim in both salt and fresh water?,Bull shark
+Sports,100,How long is one half in a football (soccer) match?,45 minutes
+Sports,100,What sport uses a board and wheels?,Skateboarding
+Sports,100,What sport uses a net and a small round ball on a hard court?,Tennis
+Sports,100,What sport uses rings hanging in the air?,Gymnastics
+Sports,100,What sport has goalkeepers defenders and forwards?,Football (soccer)
+Sports,200,In what sport do players try to hit pins with a ball?,Bowling
+Sports,200,What sport uses a curved stick on ice?,Ice hockey
+Sports,200,What sport uses a long bar that athletes jump over?,High jump
+Sports,200,What sport uses a shuttlecock?,Badminton
+Sports,200,What sport is played in a pool with a ball?,Water polo
+Sports,300,What sport has a yellow jersey for the leader?,Cycling (Tour de France)
+Sports,300,What sport has weight classes like lightweight and heavyweight?,Boxing
+Sports,300,What sport has a green table with six pockets?,Billiards / Pool
+Sports,300,What Olympic sport uses a sword-like weapon?,Fencing
+Sports,300,What sport has 18 holes?,Golf
+Sports,400,What sport has players riding horses and hitting a ball with a long stick?,Polo
+Sports,400,What sport has grand slams like Wimbledon?,Tennis
+Sports,400,What sport has a move called a slam dunk?,Basketball
+Sports,400,What sport has a race where swimmers must use four different strokes?,Medley swimming
+Sports,400,What sport requires a chalked bar for grip?,Weightlifting
+Sports,500,What sport has a jump called the triple jump?,Track and field
+Sports,500,What sport has a position called setter?,Volleyball
+Sports,500,What sport has a move called an ollie?,Skateboarding
+Sports,500,What sport has a rule called offsides?,Football (soccer)
+Sports,500,What sport has a 400-meter track for racing?,Athletics / Running
